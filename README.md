@@ -1,1 +1,1 @@
-Exercise designed for comparison purposes. The goal is to compare loops and conditional in different languages to better understand their syntatic and other differences.
+Exercise designed for comparison purposes. The goal is to compare loops and conditional statements in different languages to better understand their syntatic and other differences. Phase 1 includes JavaScript and C#. Phase 2 will include Java and Ruby.
