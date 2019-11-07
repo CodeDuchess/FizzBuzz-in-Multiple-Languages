@@ -1,1 +1,11 @@
+1 - N
+for loop necessary
+for i = 1 - N
 
+conditional statements (3)
+if i % 3 == 0 print "Fizz"
+if i % 5 == 0 print "Buzz"
+if i % 3 ==o AND i % 5 == 0 print "FizzBuzz"
+
+number does not fit any conditional statements
+print i
