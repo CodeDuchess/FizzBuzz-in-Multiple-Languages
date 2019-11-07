@@ -9,3 +9,5 @@ if i % 3 ==o AND i % 5 == 0 print "FizzBuzz"
 
 number does not fit any conditional statements
 print i
+
+* must check if it is a multiple of both first
